@@ -1,76 +1,97 @@
-{
+[
+  {
+    "id": 0,
     "statement": "Not today, Satan! Not today!",
     "credit": "Bianca Del Rio",
   },
   {
+    "id": 1,
     "statement": "You’re so full of shit, the toilet is jealous.",
     "credit": "Jinkx Monsoon",
   },
   {
+    "id": 2,
     "statement": "You are shadier than a palm tree.",
     "credit": "April Carrion",
   },
   {
+    "id": 3,
     "statement": "Next time you think about doing a death drop, reverse it and drop dead.",
     "credit": "Adore Delano",
   },
   {
+    "id": 4,
     "statement": "I tend to think that emotions are for ugly people.",
     "credit": "Willem",
   },
   {
+    "id": 5,
     "statement": "I don’t get cute. I get drop dead gorgeous.",
     "credit": "Alyssa Edwards",
   },
   {
+    "id": 6,
     "statement": "5 Gs: Good God, get a grip, girl!",
     "credit": "Latrice Royale",
   },
   {
+    "id": 7,
     "statement": "If you can’t love yourself, how the hell you gonna love somebody else?",
     "credit": "RuPaul",
   },
   {
+    "id": 8,
     "statement": "I pity you for the face that you have.",
     "credit": "Tatianna",
   },
   {
+    "id": 9,
     "statement": "Good luck. And DON’T fuck it up.",
     "credit": "RuPaul",
   },
   {
+    "id": 10,
     "statement": "Jesus is a biscuit, let him sop you up!",
     "credit": "Latrice Royale",
   },
   {
+    "id": 11,
     "statement": "I don’t see you out there walking children in nature.",
     "credit": "Tammie Brown",
   },
   {
+    "id": 12,
     "statement": "No T, no shade, no pink lemonade...",
     "credit": "Jasmine Masters",
   },
   {
+    "id": 13,
     "statement": "Party.",
     "credit": "Adore Delano",
   },
   {
+    "id": 14,
     "statement": "Fla-zay-da.",
     "credit": "Pearl",
   },
   {
+    "id": 15,
     "statement": "Pick yourself up, look sickening, and make them EAT IT!",
     "credit": "Latrice Royale",
   },
   {
+    "id": 16,
     "statement": "Sickening? More like absolutely disgusting.",
     "credit": "PhiPhi O’Hara",
   },
   {
+    "id": 17,
     "statement": "*tongue pop*",
     "credit": "Alyssa Edwards",
   },
   {
+    "id": 18,
     "statement": "HIEEEEEEEEEEEEEEEEEEE!",
     "credit": "Alaska",
   }
+]
